@@ -1,0 +1,3 @@
+Welcome to hadoop
+welcome use hadoop
+this is hadoop
