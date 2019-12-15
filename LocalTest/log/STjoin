@@ -1,0 +1,58 @@
+Found Output Path!
+Deleted Output Path!
+19/12/04 10:47:53 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+19/12/04 10:47:53 WARN mapred.JobClient: Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+19/12/04 10:47:53 WARN mapred.JobClient: No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+19/12/04 10:47:53 INFO input.FileInputFormat: Total input paths to process : 1
+19/12/04 10:47:53 WARN snappy.LoadSnappy: Snappy native library not loaded
+19/12/04 10:47:54 INFO mapred.JobClient: Running job: job_local1698857818_0001
+19/12/04 10:47:54 INFO mapred.LocalJobRunner: Waiting for map tasks
+19/12/04 10:47:54 INFO mapred.LocalJobRunner: Starting task: attempt_local1698857818_0001_m_000000_0
+19/12/04 10:47:54 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+19/12/04 10:47:54 INFO mapred.MapTask: Processing split: file:/Users/harvey/GitHub/Hadoop/LocalTest/input/STjoin/1.txt:0+161
+19/12/04 10:47:54 INFO mapred.MapTask: io.sort.mb = 100
+19/12/04 10:47:54 INFO mapred.MapTask: data buffer = 79691776/99614720
+19/12/04 10:47:54 INFO mapred.MapTask: record buffer = 262144/327680
+19/12/04 10:47:54 INFO mapred.MapTask: Starting flush of map output
+19/12/04 10:47:54 INFO mapred.MapTask: Finished spill 0
+19/12/04 10:47:54 INFO mapred.Task: Task:attempt_local1698857818_0001_m_000000_0 is done. And is in the process of commiting
+19/12/04 10:47:54 INFO mapred.LocalJobRunner: 
+19/12/04 10:47:54 INFO mapred.Task: Task 'attempt_local1698857818_0001_m_000000_0' done.
+19/12/04 10:47:54 INFO mapred.LocalJobRunner: Finishing task: attempt_local1698857818_0001_m_000000_0
+19/12/04 10:47:54 INFO mapred.LocalJobRunner: Map task executor complete.
+19/12/04 10:47:54 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+19/12/04 10:47:54 INFO mapred.LocalJobRunner: 
+19/12/04 10:47:54 INFO mapred.Merger: Merging 1 sorted segments
+19/12/04 10:47:54 INFO mapred.Merger: Down to the last merge-pass, with 1 segments left of total size: 561 bytes
+19/12/04 10:47:54 INFO mapred.LocalJobRunner: 
+19/12/04 10:47:54 INFO mapred.Task: Task:attempt_local1698857818_0001_r_000000_0 is done. And is in the process of commiting
+19/12/04 10:47:54 INFO mapred.LocalJobRunner: 
+19/12/04 10:47:54 INFO mapred.Task: Task attempt_local1698857818_0001_r_000000_0 is allowed to commit now
+19/12/04 10:47:54 INFO output.FileOutputCommitter: Saved output of task 'attempt_local1698857818_0001_r_000000_0' to output/STjoin
+19/12/04 10:47:54 INFO mapred.LocalJobRunner: reduce > reduce
+19/12/04 10:47:54 INFO mapred.Task: Task 'attempt_local1698857818_0001_r_000000_0' done.
+19/12/04 10:47:55 INFO mapred.JobClient:  map 100% reduce 100%
+19/12/04 10:47:55 INFO mapred.JobClient: Job complete: job_local1698857818_0001
+19/12/04 10:47:55 INFO mapred.JobClient: Counters: 17
+19/12/04 10:47:55 INFO mapred.JobClient:   Map-Reduce Framework
+19/12/04 10:47:55 INFO mapred.JobClient:     Spilled Records=56
+19/12/04 10:47:55 INFO mapred.JobClient:     Map output materialized bytes=565
+19/12/04 10:47:55 INFO mapred.JobClient:     Reduce input records=28
+19/12/04 10:47:55 INFO mapred.JobClient:     Map input records=15
+19/12/04 10:47:55 INFO mapred.JobClient:     SPLIT_RAW_BYTES=126
+19/12/04 10:47:55 INFO mapred.JobClient:     Map output bytes=503
+19/12/04 10:47:55 INFO mapred.JobClient:     Reduce shuffle bytes=0
+19/12/04 10:47:55 INFO mapred.JobClient:     Reduce input groups=12
+19/12/04 10:47:55 INFO mapred.JobClient:     Combine output records=0
+19/12/04 10:47:55 INFO mapred.JobClient:     Reduce output records=13
+19/12/04 10:47:55 INFO mapred.JobClient:     Map output records=28
+19/12/04 10:47:55 INFO mapred.JobClient:     Combine input records=0
+19/12/04 10:47:55 INFO mapred.JobClient:     Total committed heap usage (bytes)=458227712
+19/12/04 10:47:55 INFO mapred.JobClient:   File Input Format Counters 
+19/12/04 10:47:55 INFO mapred.JobClient:     Bytes Read=161
+19/12/04 10:47:55 INFO mapred.JobClient:   FileSystemCounters
+19/12/04 10:47:55 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=102583
+19/12/04 10:47:55 INFO mapred.JobClient:     FILE_BYTES_READ=1249
+19/12/04 10:47:55 INFO mapred.JobClient:   File Output Format Counters 
+19/12/04 10:47:55 INFO mapred.JobClient:     Bytes Written=161
+Job process success!

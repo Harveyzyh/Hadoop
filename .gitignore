@@ -4,3 +4,5 @@
 安装文件/hadoop-3.1.2-src.tar.gz
 安装文件/hadoop-3.1.2.tar.gz
 安装文件/jdk-8u221-linux-x64.tar.gz
+LocalTest/input/webLogHandelDemo/access_2013_05_30.log
+LocalTest/input/webLogHandelDemo/access_2013_05_31.log

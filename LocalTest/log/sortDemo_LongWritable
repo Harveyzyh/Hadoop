@@ -1,0 +1,116 @@
+
+Mapper Key 0 ---  Mapper value 2
+Partitioner Key 2 ---  Partitioner value 1
+Mapper Key 2 ---  Mapper value 32
+Partitioner Key 32 ---  Partitioner value 1
+Mapper Key 5 ---  Mapper value 654
+Partitioner Key 654 ---  Partitioner value 1
+Mapper Key 9 ---  Mapper value 32
+Partitioner Key 32 ---  Partitioner value 1
+Mapper Key 12 ---  Mapper value 15
+Partitioner Key 15 ---  Partitioner value 1
+Mapper Key 15 ---  Mapper value 756
+Partitioner Key 756 ---  Partitioner value 1
+Mapper Key 19 ---  Mapper value 65223
+Partitioner Key 65223 ---  Partitioner value 1
+Mapper Key 25 ---  Mapper value 345834
+Partitioner Key 345834 ---  Partitioner value 1
+Mapper Key 32 ---  Mapper value 3490583
+Partitioner Key 3490583 ---  Partitioner value 1
+Mapper Key 40 ---  Mapper value 345
+Partitioner Key 345 ---  Partitioner value 1
+
+Mapper Key 0 ---  Mapper value 26
+Partitioner Key 26 ---  Partitioner value 1
+Mapper Key 3 ---  Mapper value 54
+Partitioner Key 54 ---  Partitioner value 1
+Mapper Key 6 ---  Mapper value 6
+Partitioner Key 6 ---  Partitioner value 1
+Mapper Key 8 ---  Mapper value 34
+Partitioner Key 34 ---  Partitioner value 1
+Mapper Key 11 ---  Mapper value 53
+Partitioner Key 53 ---  Partitioner value 1
+Mapper Key 14 ---  Mapper value 5
+Partitioner Key 5 ---  Partitioner value 1
+Mapper Key 16 ---  Mapper value 6
+Partitioner Key 6 ---  Partitioner value 1
+Mapper Key 18 ---  Mapper value 7
+Partitioner Key 7 ---  Partitioner value 1
+Mapper Key 20 ---  Mapper value 88
+Partitioner Key 88 ---  Partitioner value 1
+Mapper Key 23 ---  Mapper value 546
+Partitioner Key 546 ---  Partitioner value 1
+
+Mapper Key 0 ---  Mapper value 5956
+Partitioner Key 5956 ---  Partitioner value 1
+Mapper Key 5 ---  Mapper value 22
+Partitioner Key 22 ---  Partitioner value 1
+Mapper Key 8 ---  Mapper value 65092
+Partitioner Key 65092 ---  Partitioner value 1
+Mapper Key 14 ---  Mapper value 34534
+Partitioner Key 34534 ---  Partitioner value 1
+19/12/03 20:11:49 INFO mapred.MapTask: Starting flush of map output
+19/12/03 20:11:49 INFO mapred.MapTask: Finished spill 0
+19/12/03 20:11:49 INFO mapred.Task: Task:attempt_local1845120849_0001_m_000002_0 is done. And is in the process of commiting
+19/12/03 20:11:49 INFO mapred.LocalJobRunner: 
+19/12/03 20:11:49 INFO mapred.Task: Task 'attempt_local1845120849_0001_m_000002_0' done.
+19/12/03 20:11:49 INFO mapred.LocalJobRunner: Finishing task: attempt_local1845120849_0001_m_000002_0
+19/12/03 20:11:49 INFO mapred.LocalJobRunner: Map task executor complete.
+19/12/03 20:11:49 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+19/12/03 20:11:49 INFO mapred.LocalJobRunner: 
+19/12/03 20:11:49 INFO mapred.Merger: Merging 3 sorted segments
+19/12/03 20:11:49 INFO mapred.Merger: Down to the last merge-pass, with 3 segments left of total size: 246 bytes
+19/12/03 20:11:49 INFO mapred.LocalJobRunner: 
+Reducer Key 2 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 5 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 6 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 7 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 15 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 22 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 26 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 32 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 34 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 53 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 54 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 88 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 345 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 546 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 654 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 756 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 5956 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 34534 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 65092 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 65223 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 345834 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+Reducer Key 3490583 ---  Reducer value org.apache.hadoop.mapreduce.ReduceContext$ValueIterable@4908abbf
+19/12/03 20:11:49 INFO mapred.Task: Task:attempt_local1845120849_0001_r_000000_0 is done. And is in the process of commiting
+19/12/03 20:11:49 INFO mapred.LocalJobRunner: 
+19/12/03 20:11:49 INFO mapred.Task: Task attempt_local1845120849_0001_r_000000_0 is allowed to commit now
+19/12/03 20:11:49 INFO output.FileOutputCommitter: Saved output of task 'attempt_local1845120849_0001_r_000000_0' to output/SortDemo
+19/12/03 20:11:49 INFO mapred.LocalJobRunner: reduce > reduce
+19/12/03 20:11:49 INFO mapred.Task: Task 'attempt_local1845120849_0001_r_000000_0' done.
+19/12/03 20:11:49 INFO mapred.JobClient:  map 100% reduce 100%
+19/12/03 20:11:49 INFO mapred.JobClient: Job complete: job_local1845120849_0001
+19/12/03 20:11:50 INFO mapred.JobClient: Counters: 17
+19/12/03 20:11:50 INFO mapred.JobClient:   Map-Reduce Framework
+19/12/03 20:11:50 INFO mapred.JobClient:     Spilled Records=48
+19/12/03 20:11:50 INFO mapred.JobClient:     Map output materialized bytes=258
+19/12/03 20:11:50 INFO mapred.JobClient:     Reduce input records=24
+19/12/03 20:11:50 INFO mapred.JobClient:     Map input records=24
+19/12/03 20:11:50 INFO mapred.JobClient:     SPLIT_RAW_BYTES=384
+19/12/03 20:11:50 INFO mapred.JobClient:     Map output bytes=192
+19/12/03 20:11:50 INFO mapred.JobClient:     Reduce shuffle bytes=0
+19/12/03 20:11:50 INFO mapred.JobClient:     Reduce input groups=22
+19/12/03 20:11:50 INFO mapred.JobClient:     Combine output records=0
+19/12/03 20:11:50 INFO mapred.JobClient:     Reduce output records=24
+19/12/03 20:11:50 INFO mapred.JobClient:     Map output records=24
+19/12/03 20:11:50 INFO mapred.JobClient:     Combine input records=0
+19/12/03 20:11:50 INFO mapred.JobClient:     Total committed heap usage (bytes)=1417150464
+19/12/03 20:11:50 INFO mapred.JobClient:   File Input Format Counters 
+19/12/03 20:11:50 INFO mapred.JobClient:     Bytes Read=89
+19/12/03 20:11:50 INFO mapred.JobClient:   FileSystemCounters
+19/12/03 20:11:50 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=205976
+19/12/03 20:11:50 INFO mapred.JobClient:     FILE_BYTES_READ=4432
+19/12/03 20:11:50 INFO mapred.JobClient:   File Output Format Counters 
+19/12/03 20:11:50 INFO mapred.JobClient:     Bytes Written=166
+Job process success!

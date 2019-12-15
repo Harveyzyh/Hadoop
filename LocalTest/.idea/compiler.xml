@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="LocalTest" />
         <module name="Hadoop_Run_Local" />
         <module name="hadoop" />
       </profile>

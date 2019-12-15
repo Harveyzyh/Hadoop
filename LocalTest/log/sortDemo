@@ -1,0 +1,182 @@
+Found Output Path!
+Deleted Output Path!
+19/12/03 21:09:44 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+19/12/03 21:09:44 WARN mapred.JobClient: Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+19/12/03 21:09:44 WARN mapred.JobClient: No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+19/12/03 21:09:44 INFO input.FileInputFormat: Total input paths to process : 3
+19/12/03 21:09:44 WARN snappy.LoadSnappy: Snappy native library not loaded
+19/12/03 21:09:44 INFO mapred.JobClient: Running job: job_local369158881_0001
+19/12/03 21:09:44 INFO mapred.LocalJobRunner: Waiting for map tasks
+19/12/03 21:09:44 INFO mapred.LocalJobRunner: Starting task: attempt_local369158881_0001_m_000000_0
+19/12/03 21:09:44 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+19/12/03 21:09:44 INFO mapred.MapTask: Processing split: file:/Users/harvey/GitHub/Hadoop/LocalTest/input/SortDemo/1.txt:0+43
+19/12/03 21:09:44 INFO mapred.MapTask: io.sort.mb = 100
+19/12/03 21:09:44 INFO mapred.MapTask: data buffer = 79691776/99614720
+19/12/03 21:09:44 INFO mapred.MapTask: record buffer = 262144/327680
+Mapper Key 0 ---  Mapper value 2
+Partitioner Key 2 ---  Partitioner value 1
+Mapper Key 2 ---  Mapper value 32
+Partitioner Key 32 ---  Partitioner value 1
+Mapper Key 5 ---  Mapper value 654
+Partitioner Key 654 ---  Partitioner value 1
+Mapper Key 9 ---  Mapper value 32
+Partitioner Key 32 ---  Partitioner value 1
+Mapper Key 12 ---  Mapper value 15
+Partitioner Key 15 ---  Partitioner value 1
+Mapper Key 15 ---  Mapper value 756
+Partitioner Key 756 ---  Partitioner value 1
+Mapper Key 19 ---  Mapper value 65223
+Partitioner Key 65223 ---  Partitioner value 1
+Mapper Key 25 ---  Mapper value 345834
+Partitioner Key 345834 ---  Partitioner value 1
+Mapper Key 32 ---  Mapper value 3490583
+Partitioner Key 3490583 ---  Partitioner value 1
+Mapper Key 40 ---  Mapper value 345
+Partitioner Key 345 ---  Partitioner value 1
+19/12/03 21:09:45 INFO mapred.MapTask: Starting flush of map output
+19/12/03 21:09:45 INFO mapred.MapTask: Finished spill 0
+19/12/03 21:09:45 INFO mapred.Task: Task:attempt_local369158881_0001_m_000000_0 is done. And is in the process of commiting
+19/12/03 21:09:45 INFO mapred.LocalJobRunner: 
+19/12/03 21:09:45 INFO mapred.Task: Task 'attempt_local369158881_0001_m_000000_0' done.
+19/12/03 21:09:45 INFO mapred.LocalJobRunner: Finishing task: attempt_local369158881_0001_m_000000_0
+19/12/03 21:09:45 INFO mapred.LocalJobRunner: Starting task: attempt_local369158881_0001_m_000001_0
+19/12/03 21:09:45 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+19/12/03 21:09:45 INFO mapred.MapTask: Processing split: file:/Users/harvey/GitHub/Hadoop/LocalTest/input/SortDemo/3.txt:0+27
+19/12/03 21:09:45 INFO mapred.MapTask: io.sort.mb = 100
+19/12/03 21:09:45 INFO mapred.MapTask: data buffer = 79691776/99614720
+19/12/03 21:09:45 INFO mapred.MapTask: record buffer = 262144/327680
+Mapper Key 0 ---  Mapper value 26
+Partitioner Key 26 ---  Partitioner value 1
+Mapper Key 3 ---  Mapper value 54
+Partitioner Key 54 ---  Partitioner value 1
+Mapper Key 6 ---  Mapper value 6
+Partitioner Key 6 ---  Partitioner value 1
+Mapper Key 8 ---  Mapper value 34
+Partitioner Key 34 ---  Partitioner value 1
+Mapper Key 11 ---  Mapper value 53
+Partitioner Key 53 ---  Partitioner value 1
+Mapper Key 14 ---  Mapper value 5
+Partitioner Key 5 ---  Partitioner value 1
+Mapper Key 16 ---  Mapper value 6
+Partitioner Key 6 ---  Partitioner value 1
+Mapper Key 18 ---  Mapper value 7
+Partitioner Key 7 ---  Partitioner value 1
+Mapper Key 20 ---  Mapper value 88
+Partitioner Key 88 ---  Partitioner value 1
+Mapper Key 23 ---  Mapper value 546
+Partitioner Key 546 ---  Partitioner value 1
+19/12/03 21:09:45 INFO mapred.MapTask: Starting flush of map output
+19/12/03 21:09:45 INFO mapred.MapTask: Finished spill 0
+19/12/03 21:09:45 INFO mapred.Task: Task:attempt_local369158881_0001_m_000001_0 is done. And is in the process of commiting
+19/12/03 21:09:45 INFO mapred.LocalJobRunner: 
+19/12/03 21:09:45 INFO mapred.Task: Task 'attempt_local369158881_0001_m_000001_0' done.
+19/12/03 21:09:45 INFO mapred.LocalJobRunner: Finishing task: attempt_local369158881_0001_m_000001_0
+19/12/03 21:09:45 INFO mapred.LocalJobRunner: Starting task: attempt_local369158881_0001_m_000002_0
+19/12/03 21:09:45 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+19/12/03 21:09:45 INFO mapred.MapTask: Processing split: file:/Users/harvey/GitHub/Hadoop/LocalTest/input/SortDemo/2.txt:0+25
+19/12/03 21:09:45 INFO mapred.MapTask: io.sort.mb = 100
+19/12/03 21:09:45 INFO mapred.MapTask: data buffer = 79691776/99614720
+19/12/03 21:09:45 INFO mapred.MapTask: record buffer = 262144/327680
+Mapper Key 0 ---  Mapper value 5956
+Partitioner Key 5956 ---  Partitioner value 1
+Mapper Key 5 ---  Mapper value 22
+Partitioner Key 22 ---  Partitioner value 1
+Mapper Key 8 ---  Mapper value 65092
+Partitioner Key 65092 ---  Partitioner value 1
+Mapper Key 14 ---  Mapper value 34534
+Partitioner Key 34534 ---  Partitioner value 1
+Mapper Key 20 ---  Mapper value 22
+Partitioner Key 22 ---  Partitioner value 1
+Mapper Key 23 ---  Mapper value 15
+Partitioner Key 15 ---  Partitioner value 1
+19/12/03 21:09:45 INFO mapred.MapTask: Starting flush of map output
+19/12/03 21:09:45 INFO mapred.MapTask: Finished spill 0
+19/12/03 21:09:45 INFO mapred.Task: Task:attempt_local369158881_0001_m_000002_0 is done. And is in the process of commiting
+19/12/03 21:09:45 INFO mapred.LocalJobRunner: 
+19/12/03 21:09:45 INFO mapred.Task: Task 'attempt_local369158881_0001_m_000002_0' done.
+19/12/03 21:09:45 INFO mapred.LocalJobRunner: Finishing task: attempt_local369158881_0001_m_000002_0
+19/12/03 21:09:45 INFO mapred.LocalJobRunner: Map task executor complete.
+19/12/03 21:09:45 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+19/12/03 21:09:45 INFO mapred.LocalJobRunner: 
+19/12/03 21:09:45 INFO mapred.Merger: Merging 3 sorted segments
+19/12/03 21:09:45 INFO mapred.Merger: Down to the last merge-pass, with 3 segments left of total size: 266 bytes
+19/12/03 21:09:45 INFO mapred.LocalJobRunner: 
+
+Reducer Key 2 ---  Reducer value 1
+
+Reducer Key 5 ---  Reducer value 1
+
+Reducer Key 6 ---  Reducer value 1
+Reducer Key 6 ---  Reducer value 1
+
+Reducer Key 7 ---  Reducer value 1
+
+Reducer Key 15 ---  Reducer value 1
+Reducer Key 15 ---  Reducer value 1
+
+Reducer Key 22 ---  Reducer value 1
+Reducer Key 22 ---  Reducer value 1
+
+Reducer Key 26 ---  Reducer value 1
+
+Reducer Key 32 ---  Reducer value 1
+Reducer Key 32 ---  Reducer value 1
+
+Reducer Key 34 ---  Reducer value 1
+
+Reducer Key 53 ---  Reducer value 1
+
+Reducer Key 54 ---  Reducer value 1
+
+Reducer Key 88 ---  Reducer value 1
+
+Reducer Key 345 ---  Reducer value 1
+
+Reducer Key 546 ---  Reducer value 1
+
+Reducer Key 654 ---  Reducer value 1
+
+Reducer Key 756 ---  Reducer value 1
+
+Reducer Key 5956 ---  Reducer value 1
+
+Reducer Key 34534 ---  Reducer value 1
+
+Reducer Key 65092 ---  Reducer value 1
+
+Reducer Key 65223 ---  Reducer value 1
+
+Reducer Key 345834 ---  Reducer value 1
+
+Reducer Key 3490583 ---  Reducer value 1
+19/12/03 21:09:45 INFO mapred.Task: Task:attempt_local369158881_0001_r_000000_0 is done. And is in the process of commiting
+19/12/03 21:09:45 INFO mapred.LocalJobRunner: 
+19/12/03 21:09:45 INFO mapred.Task: Task attempt_local369158881_0001_r_000000_0 is allowed to commit now
+19/12/03 21:09:45 INFO output.FileOutputCommitter: Saved output of task 'attempt_local369158881_0001_r_000000_0' to output/SortDemo
+19/12/03 21:09:45 INFO mapred.LocalJobRunner: reduce > reduce
+19/12/03 21:09:45 INFO mapred.Task: Task 'attempt_local369158881_0001_r_000000_0' done.
+19/12/03 21:09:45 INFO mapred.JobClient:  map 100% reduce 100%
+19/12/03 21:09:45 INFO mapred.JobClient: Job complete: job_local369158881_0001
+19/12/03 21:09:45 INFO mapred.JobClient: Counters: 17
+19/12/03 21:09:45 INFO mapred.JobClient:   Map-Reduce Framework
+19/12/03 21:09:45 INFO mapred.JobClient:     Spilled Records=52
+19/12/03 21:09:45 INFO mapred.JobClient:     Map output materialized bytes=278
+19/12/03 21:09:45 INFO mapred.JobClient:     Reduce input records=26
+19/12/03 21:09:45 INFO mapred.JobClient:     Map input records=26
+19/12/03 21:09:45 INFO mapred.JobClient:     SPLIT_RAW_BYTES=384
+19/12/03 21:09:45 INFO mapred.JobClient:     Map output bytes=208
+19/12/03 21:09:45 INFO mapred.JobClient:     Reduce shuffle bytes=0
+19/12/03 21:09:45 INFO mapred.JobClient:     Reduce input groups=22
+19/12/03 21:09:45 INFO mapred.JobClient:     Combine output records=0
+19/12/03 21:09:45 INFO mapred.JobClient:     Reduce output records=26
+19/12/03 21:09:45 INFO mapred.JobClient:     Map output records=26
+19/12/03 21:09:45 INFO mapred.JobClient:     Combine input records=0
+19/12/03 21:09:45 INFO mapred.JobClient:     Total committed heap usage (bytes)=1417150464
+19/12/03 21:09:45 INFO mapred.JobClient:   File Input Format Counters 
+19/12/03 21:09:45 INFO mapred.JobClient:     Bytes Read=95
+19/12/03 21:09:45 INFO mapred.JobClient:   FileSystemCounters
+19/12/03 21:09:45 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=205924
+19/12/03 21:09:45 INFO mapred.JobClient:     FILE_BYTES_READ=4464
+19/12/03 21:09:45 INFO mapred.JobClient:   File Output Format Counters 
+19/12/03 21:09:45 INFO mapred.JobClient:     Bytes Written=178
+Job process success!

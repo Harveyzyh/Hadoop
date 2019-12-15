@@ -1,159 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="hadoop" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e42b7ee1-0989-4df1-bf14-96ae4f68d496" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Hadoop 集群安装部署记录(3.1.2) .pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MapReduce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/.idea/Maven.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/.idea/artifacts/WorkCount.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/Maven.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/HikariCP-java7-2.4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/accessors-smart-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/asm-5.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/audience-annotations-0.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/avro-1.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/commons-beanutils-1.9.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/commons-cli-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/commons-codec-1.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/commons-collections-3.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/commons-compress-1.18.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/commons-configuration2-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/commons-io-2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/commons-lang-2.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/commons-lang3-3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/commons-logging-1.1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/commons-math3-3.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/commons-net-3.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/curator-client-2.13.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/curator-framework-2.13.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/curator-recipes-2.13.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/dnsjava-2.1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/ehcache-3.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/fst-2.50.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/geronimo-jcache_1.0_spec-1.0-alpha-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/gson-2.2.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/guava-11.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/guice-4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/guice-servlet-4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-annotations-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-auth-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-common-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-hdfs-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-hdfs-nfs-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-mapreduce-client-common-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-mapreduce-client-core-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-mapreduce-client-hs-plugins-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-mapreduce-client-jobclient-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-mapreduce-client-shuffle-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-mapreduce-examples-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-api-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-applications-distributedshell-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-applications-unmanaged-am-launcher-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-client-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-common-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-registry-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-server-applicationhistoryservice-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-server-common-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-server-nodemanager-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-server-resourcemanager-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-server-router-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-server-sharedcachemanager-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-server-tests-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-server-timeline-pluginstorage-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-server-web-proxy-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-services-api-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hadoop-yarn-services-core-3.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/htrace-core4-4.1.0-incubating.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/httpclient-4.5.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/httpcore-4.4.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jackson-annotations-2.7.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jackson-core-2.7.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jackson-core-asl-1.9.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jackson-databind-2.7.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jackson-jaxrs-1.9.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jackson-jaxrs-base-2.7.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jackson-jaxrs-json-provider-2.7.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jackson-mapper-asl-1.9.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jackson-module-jaxb-annotations-2.7.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jackson-xc-1.9.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/java-util-1.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/javax.inject-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/javax.servlet-api-3.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jaxb-api-2.2.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jaxb-impl-2.2.3-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jcip-annotations-1.0-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jersey-client-1.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jersey-core-1.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jersey-guice-1.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jersey-json-1.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jersey-server-1.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jersey-servlet-1.19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jettison-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jetty-http-9.3.24.v20180605.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jetty-io-9.3.24.v20180605.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jetty-security-9.3.24.v20180605.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jetty-server-9.3.24.v20180605.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jetty-servlet-9.3.24.v20180605.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jetty-util-9.3.24.v20180605.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jetty-webapp-9.3.24.v20180605.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jetty-xml-9.3.24.v20180605.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jsch-0.1.54.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/json-io-2.5.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/json-smart-2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jsp-api-2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jsr305-3.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jsr311-api-1.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/jul-to-slf4j-1.7.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/kerb-admin-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/kerb-client-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/kerb-common-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/kerb-core-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/kerb-crypto-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/kerb-identity-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/kerb-server-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/kerb-simplekdc-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/kerb-util-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/kerby-asn1-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/kerby-config-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/kerby-pkix-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/kerby-util-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/kerby-xdr-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/log4j-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/metrics-core-3.2.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/mssql-jdbc-6.2.1.jre7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/netty-3.10.5.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/nimbus-jose-jwt-4.41.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/objenesis-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/paranamer-2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/protobuf-java-2.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/re2j-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/slf4j-api-1.7.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/slf4j-log4j12-1.7.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/snakeyaml-1.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/snappy-java-1.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/stax2-api-3.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/swagger-annotations-1.5.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/token-provider-1.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/woodstox-core-5.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/hadoop/zookeeper-3.4.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/input/112.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/output/._SUCCESS.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/output/.part-r-00000.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/output/_SUCCESS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/output/part-r-00000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/src/main/java/WordCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/target/classes/112.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/target/classes/WordCount$IntSumReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/target/classes/WordCount$TokenizerMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Maven/target/classes/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/hadoop_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/HikariCP-java7-2.4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/accessors-smart-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/asm-5.0.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/audience-annotations-0.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/avro-1.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/commons-beanutils-1.9.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/commons-cli-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/commons-codec-1.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/commons-collections-3.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/commons-compress-1.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/commons-configuration2-2.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/commons-io-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/commons-lang-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/commons-lang3-3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/commons-logging-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/commons-math3-3.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/commons-net-3.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/curator-client-2.13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/curator-framework-2.13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/curator-recipes-2.13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/dnsjava-2.1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/ehcache-3.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/fst-2.50.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/geronimo-jcache_1.0_spec-1.0-alpha-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/gson-2.2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/guava-11.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/guice-4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/guice-servlet-4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-annotations-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-auth-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-common-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-hdfs-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-hdfs-nfs-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-mapreduce-client-common-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-mapreduce-client-core-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-mapreduce-client-hs-plugins-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-mapreduce-client-jobclient-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-mapreduce-client-shuffle-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-mapreduce-examples-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-api-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-applications-distributedshell-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-applications-unmanaged-am-launcher-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-client-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-common-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-registry-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-server-applicationhistoryservice-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-server-common-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-server-nodemanager-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-server-resourcemanager-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-server-router-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-server-sharedcachemanager-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-server-tests-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-server-timeline-pluginstorage-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-server-web-proxy-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-services-api-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hadoop-yarn-services-core-3.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/htrace-core4-4.1.0-incubating.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/httpclient-4.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/httpcore-4.4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jackson-annotations-2.7.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jackson-core-2.7.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jackson-core-asl-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jackson-databind-2.7.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jackson-jaxrs-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jackson-jaxrs-base-2.7.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jackson-jaxrs-json-provider-2.7.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jackson-mapper-asl-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jackson-module-jaxb-annotations-2.7.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jackson-xc-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/java-util-1.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/javax.inject-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jaxb-api-2.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jaxb-impl-2.2.3-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jcip-annotations-1.0-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jersey-client-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jersey-core-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jersey-guice-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jersey-json-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jersey-server-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jersey-servlet-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jettison-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jetty-http-9.3.24.v20180605.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jetty-io-9.3.24.v20180605.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jetty-security-9.3.24.v20180605.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jetty-server-9.3.24.v20180605.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jetty-servlet-9.3.24.v20180605.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jetty-util-9.3.24.v20180605.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jetty-webapp-9.3.24.v20180605.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jetty-xml-9.3.24.v20180605.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jsch-0.1.54.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/json-io-2.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/json-smart-2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jsp-api-2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jsr305-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jsr311-api-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/jul-to-slf4j-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/kerb-admin-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/kerb-client-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/kerb-common-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/kerb-core-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/kerb-crypto-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/kerb-identity-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/kerb-server-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/kerb-simplekdc-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/kerb-util-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/kerby-asn1-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/kerby-config-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/kerby-pkix-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/kerby-util-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/kerby-xdr-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/metrics-core-3.2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/mssql-jdbc-6.2.1.jre7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/netty-3.10.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/nimbus-jose-jwt-4.41.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/objenesis-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/paranamer-2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/protobuf-java-2.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/re2j-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/slf4j-log4j12-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/snakeyaml-1.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/snappy-java-1.0.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/stax2-api-3.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/swagger-annotations-1.5.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/token-provider-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/woodstox-core-5.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadoop_jarlib/zookeeper-3.4.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/webLogHandelDemo/access_2013_05_303.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/wordCountDemo/111" beforeDir="false" afterPath="$PROJECT_DIR$/input/wordCountDemo/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/wordCountDemo/112.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input/wordCountDemo/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/webLogHandelDemo.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/webLogHandelDemo.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/wordCountDemoLog.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/wordCountDemoLog.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/hadoop_jar/hadoop.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/webLogHandelDemo/2013_05_303/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/webLogHandelDemo/2013_05_303/.part-r-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/webLogHandelDemo/2013_05_303/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/webLogHandelDemo/2013_05_303/part-r-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hadoop/webLogHandelDemo/LogCleanJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hadoop/webLogHandelDemo/LogCleanJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hadoop/workCountDemo/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hadoop/workCountDemo/WordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/hadoop.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hadoop/webLogHandelDemo/LogCleanJob$LogParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hadoop/webLogHandelDemo/LogCleanJob$LogParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hadoop/webLogHandelDemo/LogCleanJob$MyMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hadoop/webLogHandelDemo/LogCleanJob$MyMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hadoop/webLogHandelDemo/LogCleanJob$MyReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hadoop/webLogHandelDemo/LogCleanJob$MyReducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hadoop/webLogHandelDemo/LogCleanJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hadoop/webLogHandelDemo/LogCleanJob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hadoop/workCountDemo/WordCount$IntSumReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hadoop/workCountDemo/WordCount$IntSumReducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hadoop/workCountDemo/WordCount$MyCombiner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hadoop/workCountDemo/WordCount$MyCombiner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hadoop/workCountDemo/WordCount$TokenizerMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hadoop/workCountDemo/WordCount$TokenizerMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hadoop/workCountDemo/WordCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hadoop/workCountDemo/WordCount.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -166,17 +176,17 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/WordCount.java">
+        <entry file="file://$PROJECT_DIR$/src/com/hadoop/STjoin/STjoin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#deleteDirectory#0;class#WordCount#0" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -189,6 +199,18 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>delete</find>
+      <find>（</find>
+      <find>；</find>
+      <find>，</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>;</replace>
+      <replace>,</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -203,7 +225,25 @@
         <option value="$PROJECT_DIR$/input/111" />
         <option value="$PROJECT_DIR$/input/112.txt" />
         <option value="$PROJECT_DIR$/src/main/java/WordCount.java" />
+        <option value="$PROJECT_DIR$/src/com/hadoop/main/WordCount.java" />
+        <option value="$PROJECT_DIR$/src/com/hadoop/lib/DirOpt.java" />
+        <option value="$PROJECT_DIR$/src/com/hadoop/webLogHandelDemo/webLog.java" />
+        <option value="$PROJECT_DIR$/src/com/hadoop/webLogHandelDemo/WebLog.java" />
+        <option value="$PROJECT_DIR$/src/com/hadoop/webLogHandelDemo/TestDemo.java" />
+        <option value="$PROJECT_DIR$/input/webLogHandelDemo/access_2013_05_303.log" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/com/hadoop/webLogHandelDemo/LogCleanJob.java" />
+        <option value="$PROJECT_DIR$/src/Demo.java" />
+        <option value="$PROJECT_DIR$/input/SortDemo/3.txt" />
+        <option value="$PROJECT_DIR$/log/sortDemo_Object" />
+        <option value="$PROJECT_DIR$/log/sortDemo" />
+        <option value="$PROJECT_DIR$/src/com/hadoop/workCountDemo/WordCount.java" />
+        <option value="$PROJECT_DIR$/input/SortDemo/1.txt" />
+        <option value="$PROJECT_DIR$/input/SortDemo/2.txt" />
+        <option value="$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java" />
+        <option value="$PROJECT_DIR$/input/STjoin/1.txt" />
+        <option value="$PROJECT_DIR$/input/STjoin/2.txt" />
+        <option value="$PROJECT_DIR$/src/com/hadoop/STjoin/STjoin.java" />
       </list>
     </option>
   </component>
@@ -226,11 +266,27 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hadoop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hadoop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="46" />
     <option name="y" value="23" />
-    <option name="width" value="1394" />
-    <option name="height" value="877" />
+    <option name="width" value="1634" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -240,60 +296,53 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Hadoop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hadoop_Local_Test_3.1.2" type="b2602c69:ProjectViewProjectNode" />
               <item name="LocalTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Hadoop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hadoop_Local_Test_3.1.2" type="b2602c69:ProjectViewProjectNode" />
               <item name="LocalTest" type="462c0819:PsiDirectoryNode" />
               <item name="input" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Hadoop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hadoop_Local_Test_3.1.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocalTest" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+              <item name="STjoin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hadoop_Local_Test_3.1.2" type="b2602c69:ProjectViewProjectNode" />
               <item name="LocalTest" type="462c0819:PsiDirectoryNode" />
               <item name="output" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Hadoop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hadoop_Local_Test_3.1.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LocalTest" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="STjoin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hadoop_Local_Test_3.1.2" type="b2602c69:ProjectViewProjectNode" />
               <item name="LocalTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Hadoop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hadoop_Local_Test_3.1.2" type="b2602c69:ProjectViewProjectNode" />
               <item name="LocalTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LocalTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LocalTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LocalTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="CatdeaLogs" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -309,11 +358,16 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/input/wordCountDemo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -327,19 +381,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="WordCount" type="Application" factoryName="Application" show_console_on_std_err="true" show_console_on_std_out="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <output_file path="$PROJECT_DIR$/log" is_save="true" />
-      <log_file alias="log" path="$PROJECT_DIR$/log" />
-      <option name="MAIN_CLASS_NAME" value="WordCount" />
-      <module name="hadoop" />
-      <option name="PROGRAM_PARAMETERS" value="countw input/ output/" />
+  <component name="RunManager" selected="Application.STjoin">
+    <configuration name="STjoin" type="Application" factoryName="Application">
+      <output_file path="$PROJECT_DIR$/log/STjoin" is_save="true" />
+      <option name="MAIN_CLASS_NAME" value="com.hadoop.STjoin.STjoin" />
+      <module name="LocalTest" />
+      <option name="PROGRAM_PARAMETERS" value="input/STjoin/ output/STjoin/" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortDemo" type="Application" factoryName="Application">
+      <output_file path="$PROJECT_DIR$/log/sortDemo" is_save="true" />
+      <option name="MAIN_CLASS_NAME" value="com.hadoop.Sort.Sort" />
+      <module name="LocalTest" />
+      <option name="PROGRAM_PARAMETERS" value="input/SortDemo output/SortDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebLogHadelDemo" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <output_file path="$PROJECT_DIR$/log/webLogHandelDemo.log" is_save="true" />
+      <option name="MAIN_CLASS_NAME" value="com.hadoop.webLogHandelDemo.LogCleanJob" />
+      <module name="LocalTest" />
+      <option name="PROGRAM_PARAMETERS" value="input/webLogHandelDemo/access_2013_05_31.log output/webLogHandelDemo/2013_05_31" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountDemo" type="Application" factoryName="Application" show_console_on_std_err="true" show_console_on_std_out="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <output_file path="$PROJECT_DIR$/log/wordCountDemoLog.log" is_save="true" />
+      <option name="MAIN_CLASS_NAME" value="com.hadoop.workCountDemo.WordCount" />
+      <module name="LocalTest" />
+      <option name="PROGRAM_PARAMETERS" value="wc input/wordCountDemo output/wordCountDemo " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WordCountDemo" />
+      <item itemvalue="Application.WebLogHadelDemo" />
+      <item itemvalue="Application.SortDemo" />
+      <item itemvalue="Application.STjoin" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -367,11 +455,39 @@
       <workItem from="1573733541644" duration="4458000" />
       <workItem from="1573741671886" duration="240000" />
       <workItem from="1573779384975" duration="2226000" />
+      <workItem from="1574128236166" duration="339000" />
+      <workItem from="1574405408667" duration="157000" />
+      <workItem from="1574407547896" duration="470000" />
+      <workItem from="1574422495462" duration="1221000" />
+      <workItem from="1574424698349" duration="2007000" />
+      <workItem from="1574429047778" duration="288000" />
+      <workItem from="1574429399249" duration="3240000" />
+      <workItem from="1574433763706" duration="16000" />
+      <workItem from="1574433981727" duration="38000" />
+      <workItem from="1574435199977" duration="470000" />
+      <workItem from="1574562375302" duration="2543000" />
+      <workItem from="1574580506710" duration="2315000" />
+      <workItem from="1574600014495" duration="3755000" />
+      <workItem from="1574643382933" duration="89000" />
+      <workItem from="1574643478376" duration="25000" />
+      <workItem from="1574643533930" duration="93000" />
+      <workItem from="1574643654855" duration="5987000" />
+      <workItem from="1574751191193" duration="2180000" />
+      <workItem from="1575265269930" duration="579000" />
+      <workItem from="1575265949477" duration="209000" />
+      <workItem from="1575268694974" duration="719000" />
+      <workItem from="1575269796838" duration="425000" />
+      <workItem from="1575272220708" duration="110000" />
+      <workItem from="1575272660168" duration="4065000" />
+      <workItem from="1575331504720" duration="7245000" />
+      <workItem from="1575374452550" duration="3490000" />
+      <workItem from="1575420689862" duration="3785000" />
+      <workItem from="1575509759012" duration="1872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20480000" />
+    <option name="totallyTimeSpent" value="68212000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -383,10 +499,42 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="23" width="1394" height="877" extended-state="0" />
+    <frame x="46" y="23" width="1634" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23002958" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16645728" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49963045" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3299363" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50036955" side_tool="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3299363" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3299363" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24981523" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32988167" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647929" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -416,101 +564,477 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>39</line>
+          <properties class="com.hadoop.Sort.Sort.Reduce" method="reduce">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>25</line>
+          <properties class="com.hadoop.Sort.Sort.Map" method="map">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java</url>
+          <line>55</line>
+          <properties class="com.hadoop.Sort.Sort.Partition" method="getPartition">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/.name">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Share/org/apache/hadoop/examples/WordCount.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/WordCount2.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-hdfs/3.1.2/hadoop-hdfs-3.1.2.jar!/org/apache/hadoop/hdfs/net/DFSNetworkTopology.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="38" column="39" lean-forward="true" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+        <state relative-caret-position="96">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/3.1.2/hadoop-common-3.1.2.jar!/org/apache/hadoop/fs/AvroFSInput.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/3.1.2/hadoop-common-3.1.2.jar!/org/apache/hadoop/http/AdminAuthorizedServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MR.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Reduce.java" />
-    <entry file="file://$PROJECT_DIR$/src/lib/java/lib_conf.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="-185">
+          <caret line="1920" column="17" selection-start-line="1920" selection-start-column="8" selection-end-line="1920" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input/111">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/io/NullWritable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="192">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input/112.txt">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="-5961">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/part-r-00000">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/io/LongWritable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/io/Closeable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/io/UTF8.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/io/VersionedWritable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/io/Writable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/webLogHandelDemo/2013_05_303/_SUCCESS" />
+    <entry file="file://$PROJECT_DIR$/output/webLogHandelDemo/2013_05_303/.part-r-00000.crc" />
+    <entry file="file://$PROJECT_DIR$/output/webLogHandelDemo/2013_05_30/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58006" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/webLogHandelDemo/2013_05_31/part-r-00000">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/webLogHandelDemo/2013_05_303/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/input/webLogHandelDemo/access_2013_05_303.log" />
     <entry file="file://$PROJECT_DIR$/Maven.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
-          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/webLogHandelDemo.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="95" column="71" lean-forward="true" selection-start-line="95" selection-start-column="71" selection-end-line="95" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hadoop/webLogHandelDemo/LogCleanJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#MyReducer#0;class#LogCleanJob#0" />
+            <element signature="class#LogParser#0;class#LogCleanJob#0" />
+            <element signature="method#parse#0;class#LogParser#0;class#LogCleanJob#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/util/ToolRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/JobConf.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="440" selection-start-line="440" selection-end-line="440" />
+          <folding>
+            <element signature="e#16436#16437#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapreduce/Job.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        <state relative-caret-position="179">
+          <caret line="254" selection-start-line="254" selection-end-line="254" />
+          <folding>
+            <element signature="e#3064#3065#0" expanded="true" />
+            <element signature="e#3108#3109#0" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/conf/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="223" selection-start-line="223" selection-end-line="223" />
+          <folding>
+            <element signature="e#2822#2823#0" expanded="true" />
+            <element signature="e#2848#2849#0" expanded="true" />
+            <element signature="e#6798#6799#0" expanded="true" />
+            <element signature="e#6875#6876#0" expanded="true" />
+            <element signature="e#10485#10486#0" expanded="true" />
+            <element signature="e#10547#10548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/io/Text.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/io/IntWritable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/Task.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="1008" selection-start-line="1008" selection-end-line="1008" />
+          <folding>
+            <element signature="e#39628#39629#0" expanded="true" />
+            <element signature="e#39679#39680#0" expanded="true" />
+            <element signature="e#40309#40310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/io/serializer/WritableSerialization.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapreduce/MapContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/fs/FileSystem.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9885">
+          <caret line="328" column="34" selection-start-line="328" selection-start-column="28" selection-end-line="328" selection-end-column="34" />
+          <folding>
+            <element signature="e#28946#28947#0" expanded="true" />
+            <element signature="e#28997#28998#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapreduce/lib/input/LineRecordReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapreduce/TaskInputOutputContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapred/MapTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="1109" selection-start-line="1109" selection-end-line="1109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/mapreduce/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/sortDemo_LongWritable">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/sortDemo_Object">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/wordCountDemo/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/SortDemo/3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/SortDemo/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/SortDemo/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/SortDemo/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hadoop/workCountDemo/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hadoop/Sort/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="95" column="41" lean-forward="true" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/STjoin/2.txt" />
+    <entry file="file://$PROJECT_DIR$/input/STjoin/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/STjoin/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/STjoin/_SUCCESS">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        <state relative-caret-position="289">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WordCount.java">
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hadoop/STjoin/STjoin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#deleteDirectory#0;class#WordCount#0" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -520,12 +1044,11 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>WorkCount</last-edited>
+          <last-edited>hadoop</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -568,12 +1091,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>hadoop</last-edited>
+          <last-edited>LocalTest</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -581,7 +1103,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: org.apache.httpcomponents:httpcore:4.4.4</last-edited>
+          <last-edited>hadoop_jarlib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
